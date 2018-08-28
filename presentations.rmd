@@ -1,0 +1,22 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Selected talks
+
+[Half the Max](Oxford Talk.pdf) Conference on Stochastic Processes and their Applications (SPA-$15$), Oxford, England, Summer 2015
+
+[Stopping near the top of a random walk](Lubbock talk.pdf), Spring Central AMS Sectional Meeting, Lubbock, Texas, Spring 2014
+
+Conference Posters:
+
+[Stopping near the top of a random walk](Stopping near(poster).pdf), Conference on Stochastic Processes and their Applications (SPA-$14$), Buenos Aires, Argentina, Summer 2014
+
+Some talks in spanish
+
+[Platica semana de la ciencia y tecnologia (2017)](Platica_ciencia_y_tecnologia_2017.pdf)
+
+[Platica aniversario FCFM (2016)](Platica_aniversario_FCFM.pdf)
+
+[Platica semana de la ciencia y tecnologia (2016)](Platica_ciencia_y_tecnologia_2017.pdf)

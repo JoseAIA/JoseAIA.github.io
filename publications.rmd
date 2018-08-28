@@ -1,0 +1,11 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Islas, Jose A. A sharp bound for winning within a proportion of the maximum of a sequence, accepted for publication in Bolet\'in de la Sociedad Matemática Mexicana (2018), 
+preprint at [arXiv:1709.02416](https://arxiv.org/abs/1709.02416)
+
+Islas, Jose A. Oscillation criteria for stopping near the top of a random walk, submitted for publication (2017), preprint at [arXiv:1711.08857v1](https://arxiv.org/abs/1711.08857)
+
+Allaart, P.C. and Islas, Jose A. (2016) A sharp lower bound for choosing the maximum of an independent sequence, Journal of Applied Probability, 53(4), pp. 1041-1051.  Preprint at [ arXiv:1511.02211](https://arxiv.org/abs/1511.02211)
