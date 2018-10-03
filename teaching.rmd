@@ -4,22 +4,24 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-Español
+# Español
 
-Otoño 2018
+## Otoño 2018
 
-Álgebra y Trigonometría G1
+###Álgebra y Trigonometría G1
 
 [Presentación del curso](Alg_Trig_PresentacionCursoG1.pdf)
 
-Álgebra y Trigonometría G2
+###Álgebra y Trigonometría G2
 
 [Presentación del curso](Alg_Trig_PresentacionCursoG2.pdf)
 
-Computación II
+###Computación II
 
 [Presentación del curso](ComputacionII_PresentacionCurso.pdf)
 
-English
+[Examen I](Computacion_II___Examen_I.pdf)
+
+#  English
 
 
