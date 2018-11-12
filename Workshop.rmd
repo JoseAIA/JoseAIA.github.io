@@ -1,0 +1,15 @@
+---
+---
+Dia 1: Lunes 12 de Noviembre
+
+Introdución a Latex
+
+Abrir una cuenta en overleaf.com
+
+[LaTex para principiantes](LaTeX_Basics.pdf)
+
+Hacer un pequeño documento para tomar notas de clase.
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+

@@ -1,14 +1,14 @@
 name: "José A. Islas Anguiano"
 output_dir: "."
 navbar:
-  title: "José A. Islas Anguiano"
+  title: "Jose A. Islas Anguiano"
   left:
     - text: "Research"
       href: research.html
     - text: "Presentations"
       href: presentations.html
-    - text: "Programming"
-      href: programming.html
+    - text: "Workshops"
+      href: Workshop.html
     - text: "Teaching"
       href: teaching.html
     - text: "Publications"
